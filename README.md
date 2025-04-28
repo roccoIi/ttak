@@ -126,8 +126,7 @@
     <table border=""6 width="50%">
         <tr>
             <th style="text-align: center;" colspan="3">Android</th>
-            <th style="text-align: center;" colspan="1">Android & Infra</th>
-            <th style="text-align: center;" colspan="2">Backend</th>
+            <th style="text-align: center;" colspan="3">Backend</th>
         </tr>
         <tr>
             <td align="center"><a href="https://github.com/monghwadang"><img src="https://avatars.githubusercontent.com/u/156163462?v=4" width="180px;" style="vertical-align:top" alt=""></td>
